@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kenjiesan123.aternos.me:58677",
+    "ip": "Kenjiesan123.aternos.me",
     "port": 58677,
     "version": "",
     "try-creative": false
